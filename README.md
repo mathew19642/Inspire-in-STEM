@@ -8,7 +8,8 @@ add link to downloading vs code
 
 add link to downloading git for windows
 
-[./Images/lesson1.PNG]
+![picture1](./Capture.PNG)
+
 
 strings
 replace()
