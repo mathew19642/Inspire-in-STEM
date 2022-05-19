@@ -4,6 +4,11 @@
 Day 1 : installing python
 add a link to python download
 
+day 4 :lists
+       working with lists
+       loops
+       
+
 add link to downloading vs code
 
 add link to downloading git for windows
