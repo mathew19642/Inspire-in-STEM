@@ -9,12 +9,15 @@ person = "i am" + str(name) + "and my age is" + str(age)
 #print ("i am " + str(name) + "and my age is" + str(age)
 # the format method
 # newline \n and tab \t
+# \n tab is used to complete the statement in a new line while 
+#the \t tab is used to space out the words
 print(f"my \t name is {name} \n and i am {age} years old ")
 print(user_name)
 print(name)
 print(name,age)
 print(user_name.strip)
 print(user_name.lstrip())
+print("monday/ttuesday/twednesday/tthursday/tfriday/tsaturday/ysunday/t")
 
 #multiple line
 msg = "QETRUIOE2746KJ MPESA confirmed you have received 30000from bee keepers association on 5th may..safaricom is here for you"
@@ -47,3 +50,12 @@ print(name.replace('u','f'))
 msg = "hello i am mathew murithi hahaha simple guy"
 print(msg.split())
 print(len(msg))
+#revising the work iv learned on lesson5
+user_name = " yrnla "
+print(user_name.lstrip())
+print(user_name.rstrip())
+first_name = "mathew"
+print(first_name.upper())
+full_name = " mathew murithi "
+print(full_name.replace('t','f').upper())
+print(full_name.replace('a','k').upper().strip())
