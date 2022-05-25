@@ -38,9 +38,9 @@ i = 2
 while i < len(colors):
      if(colors[2]=='blue'):
        print(colors[2].upper())
-       i +=2
+       i +=1
 i = 3
 while i < len(colors):
      if(colors[3]=='purple'):
        print(colors[3].upper())
-       i +=3
+       i +=1
