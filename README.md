@@ -1,5 +1,12 @@
 ### inspire youth in stem
 
+### git commands
+git config --global user.name"mathew19642"
+git config --global user.email"mathewgitonga761@gmail.com"
+git add *
+git commit -m "lessons"
+git push
+
 ## week 1 :introduction to python
 Day 1 : installing python
 add a link to python download
