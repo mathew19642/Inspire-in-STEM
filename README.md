@@ -35,6 +35,11 @@ lower()
 
 
 ## week 2 :electronics for innovators
+# what are dictionaries   are a collection of key value pairs
+syntax for dictionaries
+define add remove
+looping over dictionaries
+dic in list,list in dic,dic in ist
 
 ## week 3 :introduction to robotics
 
