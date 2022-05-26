@@ -23,12 +23,12 @@ print(person['name'] , adress['add'] , id_number['no'])
 print(person)
 del [person['phno']]
 print(person)
+print(person.get('color','the color is'))
 #print(person)
 #loopng over dictionaries
 for key, value in person.items():
     print(f"{key}:{value}")
 colors = ['red','green','blue','purple']
-i=0
 i = 1
 while i < len(colors):
      if(colors[1]=='green'):
@@ -44,3 +44,11 @@ while i < len(colors):
      if(colors[3]=='purple'):
        print(colors[3].upper())
        i +=1
+print(person.get('color','the color is'))
+
+mary_fav_food = ['beef','chicken','vegetable']
+jane_fav_food = ['rice','ugali','potato']
+print(mary_fav_food + jane_fav_food)
+food = ['mary','beef','chicken' 'vegetable']
+['jane','rice','ugali','potato']
+print(food[mary_fav_food] + [jane_fav_food])
