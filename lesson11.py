@@ -16,15 +16,13 @@ for numbers in  range(0,20):
         prod_nums = prod_nums * numbers
 print(prod_nums)
 #calculate the factorile of 6!
-
-
-
-num = 0
-while num < 10:
-      print(num)
-      num = num + 2
-while num <10:
-      print(num)
-      num = num + 1
-if(num%2==0):
-   print(num)
+number = int(input("enter the number"))
+factorial= 1
+if number <0:
+    print("factorial of negative number desnt exist")
+elif number==0:
+     print("factorial of 0 is 1")
+else:
+    for i in range(1,number+1):
+        factorial=factorial*i
+print("factorial of number :",factorial)
