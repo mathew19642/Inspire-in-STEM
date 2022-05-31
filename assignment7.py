@@ -1,5 +1,7 @@
-#calculate the geometric progression
-#calculate the sum of the geometric expression
+#calculate the geometric progression  ar.pow(n-1)
+#calculate the sum of the geometric expression  sn = a(1-n.powr)/(1-r)
+
+
 #calculate the t_n ter / no of term
 ###############################
 

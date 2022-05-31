@@ -44,11 +44,11 @@ while i < len(colors):
      if(colors[3]=='purple'):
        print(colors[3].upper())
        i +=1
-print(person.get('color','the color is'))
+#print(person.get('color','the color is'))
+
+for key, value in person.items():
+    print(f"{key}:{value}")
 
 mary_fav_food = ['beef','chicken','vegetable']
 jane_fav_food = ['rice','ugali','potato']
-print(mary_fav_food + jane_fav_food)
-food = ['mary','beef','chicken' 'vegetable']
-['jane','rice','ugali','potato']
-print(food[mary_fav_food] + [jane_fav_food])
+
