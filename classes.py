@@ -29,14 +29,8 @@ class Vehicle :
          self.max_speed = max_speed
       def sayHi(self):
           print("The vehicles mileage is "  , str(self.mileage) ,  "max speeed is" , str(self.max_speed))
-Vehicle = Vehicle(26789,7636)
+Vehicle = Vehicle(23000,64000)
 Vehicle.sayHi()
-Vehicletoyota.sayHi()
-    def sayHi(self):
-          Vehicletoyota =(4500,5600)
-          Vehiclemercedes =(6700,7800)
-  
-Vehicletoyota.sayHi()
-Vehiclemercedes.sayHi()
+
 
    
