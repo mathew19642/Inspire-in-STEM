@@ -1,0 +1,18 @@
+this is a normal text file
+learning pythonis fun
+today is  aw indy day
+
+f= open("lesson txt)
+f= open("lesson txt", 'w')
+
+r  open a file for reading. (default)
+w  opens a file for writing. (creates a new file)
+x opens  a file for exclusive creation.if the file
+a opens a a file for appending at the end of the
+t opens in text mode. (default)
+b opens in binary mode.
++ opens a file for updating(rwading and writing)
+"""
+
+
+
